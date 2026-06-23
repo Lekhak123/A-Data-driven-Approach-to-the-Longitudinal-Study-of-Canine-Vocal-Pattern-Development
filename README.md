@@ -6,6 +6,8 @@
 
 **Paper:** https://dl.acm.org/doi/10.1145/3746027.3758175
 
+**Dataset:** https://huggingface.co/datasets/ArlingtonCL2/Canine-Age-Transition-Vocalization-Dataset
+
 **Citation:**
 
 ```bibtex
